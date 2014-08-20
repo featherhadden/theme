@@ -1,7 +1,7 @@
 # Project: Feather Hadden
 > Feather Hadden is a good hearted and strong willed NPC Figure Professional Athlete.
 > She is in masters category of Figure professional Athlete
-> * She is the best *
+> *She is the best* - **Rajat Chodhary**
 
 ## WordPress Theme
 * index.php
